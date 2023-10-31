@@ -17,5 +17,9 @@
   },
   "dependencies": {
     "@nuxt/ui": "^2.9.0"
-  }
+  },
+  "trustedDependencies": [
+    "vue-demi",
+    "esbuild"
+  ]
 }
