@@ -9,7 +9,7 @@
 const myLinks = [
   {
     label: 'Link1',
-    to: { name: 'index'}
+    to: { name: 'page1'}
   },
   {
     label: 'Link2',
